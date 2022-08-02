@@ -3,7 +3,7 @@
 I would ask you to check out my website but as of right now it's a work in progress :P
 
 ## About me 
-- 📚 I'm a currently a junior at Boston University studying Computer Science.
+- 📚 I'm a currently a senior at Boston University studying Computer Science.
 - 💻 I'm passionate about developing software that is helpful, practical and aesthetic.
 - 📱As of right now, I am learning Swift and am working on building my website!
 
