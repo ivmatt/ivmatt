@@ -1,32 +1,39 @@
 ### Hi, I'm Ivan The! 👋
 
-I would ask you to check out my website but as of right now it's a work in progress :P
+I would ask you to check out my website but as of right now it's a work in progress :P  
+(Still, feel free to peek: [ivanthe.com](https://ivanthe.com))
 
-## About me 
-- 📚 I'm a currently a senior at Boston University studying Computer Science.
-- 💻 I'm passionate about developing software that is helpful, practical and aesthetic.
-- 📱As of right now, I am learning Swift and am working on building my website!
+## About Me 
+- 🎓 I'm a recent graduate from Boston University with a B.A. in Computer Science.
+- 🛠 I love building software that's not just functional, but actually looks and feels good to use.
+- 🎨 Outside of code, I’m into design, audio, and editing — I like mixing the creative with the technical.
+- 🧗‍♂️ In my free time, you’ll probably find me climbing, skiing, snowboarding, or just watching movies.
 
 ## Skills
-### Programming languages:
-- Python
-- Java
-- JavaScript
-- Swift
-- Ocaml
 
-### Frameworks:
-- React.js
+### Languages & Technologies:
+- Python  
+- JavaScript / TypeScript  
+- Swift  
+- CSS / Sass  
+- mySQL  
+- GraphQL (Apollo)  
 
-### Tools:
-- Git/Github
+### Frameworks & Tools:
+- React.js  
+- Git / GitHub  
+- AWS  
+- Firebase  
+- Figma  
 
-### Software/Programs:
-- Visual Studio Code
-- Xcode
-- Adobe Premiere Pro
-- Final Cut Pro X
+### Software:
+- Visual Studio Code  
+- Xcode  
+- Adobe Premiere Pro  
+- Final Cut Pro X  
 
 ## Projects
 - StuddyBuddy (Work in Progress)
+- Blackjack Q-Learner (Python + Tkinter)
+- Online Journal (Vanilla JS + Java Backend)
 - More to come!
