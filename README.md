@@ -1,13 +1,10 @@
 ### Hi, I'm Ivan The! 👋
 
-I would ask you to check out my website but as of right now it's a work in progress :P  
-(Still, feel free to peek: [ivanthe.com](https://ivanthe.com))
-
 ## About Me 
-- 🎓 I'm a recent graduate from Boston University with a B.A. in Computer Science.
-- 🛠 I love building software that's not just functional, but actually looks and feels good to use.
-- 🎨 Outside of code, I’m into design, audio, and editing — I like mixing the creative with the technical.
-- 🧗‍♂️ In my free time, you’ll probably find me climbing, skiing, snowboarding, or just watching movies.
+- I'm a recent graduate from Boston University with a B.A. in Computer Science.
+- I love building software that's not just functional, but actually looks and feels good to use.
+- Outside of code, I’m into design, audio, and editing — I like mixing the creative with the technical.
+- In my free time, you’ll probably find me climbing, skiing, snowboarding, or just watching movies.
 
 ## Skills
 
@@ -17,23 +14,19 @@ I would ask you to check out my website but as of right now it's a work in progr
 - Swift  
 - CSS / Sass  
 - mySQL  
-- GraphQL (Apollo)  
+- GraphQL
 
 ### Frameworks & Tools:
-- React.js  
+- React.js
+- Next.js
 - Git / GitHub  
-- AWS  
+- AWS
 - Firebase  
 - Figma  
 
-### Software:
-- Visual Studio Code  
-- Xcode  
-- Adobe Premiere Pro  
-- Final Cut Pro X  
-
 ## Projects
-- StuddyBuddy (Work in Progress)
+- StuddyBuddy
 - Blackjack Q-Learner (Python + Tkinter)
 - Online Journal (Vanilla JS + Java Backend)
+- Basil (A platform for private chefs)
 - More to come!
